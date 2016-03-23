@@ -1,8 +1,9 @@
 # _Calculator_
 
-#### _It is the best calculator, 03/21/2016_
+#### _It is the best calculator_
 
-#### By Luca Quatela and Inthrayuth Mahaphol
+#### By Luca Quatela and Inthrayuth Mahaphol 03/21/2016
+#### By Ned Faulhaber and Inthrayuth Mahaphol 03/23/2016
 
 ## Description
 
@@ -19,7 +20,9 @@ _Not yet_
 
 ## Support and contact details
 
-_lucaqq@gmail.com -- zign.int@gmail.com_
+_lucaqq@gmail.com -
+- zign.int@gmail.com_
+_nedfaulhaber@gmail.com_
 
 ## Technologies Used
 
